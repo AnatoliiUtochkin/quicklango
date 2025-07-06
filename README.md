@@ -7,7 +7,7 @@ It runs silently in the system tray, providing fast and convenient translations 
 ## Features
 - Runs in the background with a system tray icon  
 - Translate selected text from any language with autodetection
-- Configurable hotkey activation  
+- Hotkey activation  
 - Uses Microsoft Azure Translator API for reliable translations  
 - Built with .NET 8 and WPF
 
